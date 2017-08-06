@@ -1,4 +1,4 @@
-# Get the highest bid with AJAX requests
+# Get the Second Highest Bid with AJAX Request
 
 
 
